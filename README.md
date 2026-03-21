@@ -277,11 +277,6 @@ Languages: English (Fluent), Hindi (Native)
 Time Zone: IST (Indian Standard Time) | Open to Remote work (Global team collaboration)
 Visa Status: Indian citizen (Visa sponsorship may be required for on-site roles)
 
-Why Google:
-  • Admire Google's commitment to innovation and engineering excellence
-  • Interested in working on products used by billions of people worldwide
-  • Attracted to Google's strong engineering culture and learning opportunities
-  • Excited to contribute to Google Cloud Platform and modern web technologies
 
 Growth Mindset:
   • Continuous learner: Regular participation in online courses, competitive programming, technical blogs
