@@ -1,6 +1,6 @@
 Sristi Gupta
 Patna, Bihar, India
-[sristigupta788@gmail.com](mailto:sristigupta788@gmail.com) | GitHub | LinkedIn
+[sristigupta788@gmail.com](mailto:sristigupta788@gmail.com) | GitHub | LinkedIn 
 
 ---
 
